@@ -12,6 +12,5 @@ Steps to follow :
 
 Note : This dataset is attached to the git repository.
 
-1. The dataset is attached ----> archive
-
+1. The dataset is available at -----> https://www.kaggle.com/tongpython/cat-and-dog
 
